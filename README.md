@@ -6,7 +6,7 @@ not where SCC is developed and contains no source code.
 
 ## Downloading
 
-Open [Releases](../../releases) and download the `SCC <version>.zip`
+Open [Releases](../../releases) and download the `SCC.<version>.zip`
 asset from the newest entry. That zip contains the signed, notarized installer.
 
 The plug-in requires an **SCC** iLok licence.
@@ -21,4 +21,4 @@ Those are generated automatically by GitHub for the release's tag and cannot be
 turned off. They contain only this README and the release notes.
 
 **They are not SCC's source, and they are not the plug-in.** If you are
-looking for the build, use the `SCC <version>.zip` asset above.
+looking for the build, use the `SCC.<version>.zip` asset above.
